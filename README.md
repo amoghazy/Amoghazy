@@ -26,3 +26,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amoghazy&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+<h3 align="center">Most Used Languages:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amoghazy&layout=compact&theme=radical" alt="Top Languages" />
+</p>
